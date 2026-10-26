@@ -1,15 +1,12 @@
 {
   "name": "Zenira — Aluguel de Barco e Lancha em Guarapari, ES",
-  "short_name": "Zenira Guarapari",
+  "short_name": "Zenira",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#FAF6F0",
-  "theme_color": "#081C2E",
+  "background_color": "#F3F2EE",
+  "theme_color": "#F3F2EE",
   "icons": [
-    {
-      "src": "img/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
-    }
+    { "src": "img/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "img/apple-touch-icon.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
